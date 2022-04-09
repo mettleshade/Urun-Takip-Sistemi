@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ÜrünTakipSistemi
+</name>
+</assembly>
+<members>
+<member name="T:Ürün_Takip_Sistemi.databaseDataSet.ceksenetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.satilanurunlerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.urunlerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.ceksenetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.satilanurunlerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.urunlerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.ceksenetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.satilanurunlerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet.urunlerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.ceksenetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.satilanurunlerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.urunlerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ürün_Takip_Sistemi.databaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ürün_Takip_Sistemi.databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ürün_Takip_Sistemi.databaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.UpdateAll(Ürün_Takip_Sistemi.databaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.databaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Ürün_Takip_Sistemi.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Ürün_Takip_Sistemi.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Ürün_Takip_Sistemi.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

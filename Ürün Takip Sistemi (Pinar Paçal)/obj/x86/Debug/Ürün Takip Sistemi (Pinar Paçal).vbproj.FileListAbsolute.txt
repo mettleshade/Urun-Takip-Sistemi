@@ -1,0 +1,36 @@
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi (Pinar Paçal)\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.exe.config
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi (Pinar Paçal)\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi (Pinar Paçal)\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi (Pinar Paçal)\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.exe.config
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\database.mdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.AboutBox1.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ac.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.anaform.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ayarlar.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ceksenet.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.kisiurunekle.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi (Pinar Paçal).vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.exe.config
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\database.mdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\bin\Debug\Ürün Takip Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.AboutBox1.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ac.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.anaform.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ayarlar.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.ceksenet.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.kisiurunekle.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün_Takip_Sistemi.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Ürün Takip Sistemi FİNAL\Ürün Takip Sistemi (Pinar Paçal)\obj\x86\Debug\Ürün Takip Sistemi (Pinar Paçal).vbproj.GenerateResource.Cache
